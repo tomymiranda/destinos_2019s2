@@ -34,7 +34,7 @@ P.ej.:
 
 
 ### Salida de trekking
-De cada una **salida de trekking** se conoce, cuántos kilómetros de senderos se van a recorrer caminando, y cuántos días de sol por año tiene el lugar donde se va a hacer.  
+De cada **salida de trekking** se conoce cuántos kilómetros de senderos se van a recorrer caminando, y cuántos días de sol por año tiene el lugar donde se va a hacer.  
 Los _días_ que lleva una salida se calculan como `kilometros de senderos / 50`. 
 Una salida _implica esfuerzo_ si se recorren más de 80 kilómetros, y _sirve para broncearse_ si en el lugar hay más de 200 días de sol por año, o hay entre 100 y 200, y se recorren más de 120 kilómetros.
  
