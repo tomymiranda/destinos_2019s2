@@ -17,7 +17,7 @@ El resto de la información requerida depende del _tipo de viaje_, de acuerdo a 
 
 ### Viajes de playa.
 De cada **viaje de playa** se informa el largo de la playa, medido en metros. 
-Para calcular _cuántos días_ lleva un viaje de playa, se hace esta cuenta: `largo / 500`. Un viaje de playa _implica esfuerzo_ si el largo de la playa supera los 1200 metros. Tdoos los viajes de playa _sirven para broncearse_.
+Para calcular _cuántos días_ lleva un viaje de playa, se hace esta cuenta: `largo / 500`. Un viaje de playa _implica esfuerzo_ si el largo de la playa supera los 1200 metros. Todos los viajes de playa _sirven para broncearse_.
 
 ### Excursión a ciudad
 De cada **excursión a ciudad** se informa cuántas atracciones se van a visitar. 
